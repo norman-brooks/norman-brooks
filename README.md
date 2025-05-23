@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @norman-brooks
 - 👀 I’m interested in ...Movies, music, programming
-- 🌱 I’m currently learning ...HTML, CSS, Python
+- 🌱 I’m trained in Python, HTML, CSS, SQL and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...nbprogramming@outlook.com
 - 😄 Pronouns: ...he, him, his
