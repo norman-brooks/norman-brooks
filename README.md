@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @norman-brooks
-- 👀 I’m interested in ...Movies, music, programming
-- 🌱 I’m trained in Python, HTML, CSS, SQL and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...nbprogramming@outlook.com
-- 😄 Pronouns: ...he, him, his
-- ⚡ Fun fact: ...I play bass guitar and collect comic books
+# 👋 Hi there, I'm Norman Brooks
+
+🎓 Recent graduate of The Tech Academy's Python Developer Bootcamp  
+🧰 Skilled in: Python | Django | JavaScript | HTML | CSS | SQL  
+🌍 Based in Portland, OR | Open to remote work and freelance opportunities  
+💡 Passionate about full-stack development, especially web apps and data-driven projects  
+🎸 Fun Fact: I play bass guitar and collect comic books!
+
+📫 Reach me at [nbprogramming@outlook.com](mailto:nbprogramming@outlook.com)  
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/normanbrooks-softwaredeveloper/)
 
 <!---
 norman-brooks/norman-brooks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
